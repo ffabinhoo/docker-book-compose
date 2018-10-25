@@ -1,3 +1,2 @@
 # ffabinhoo-docker-compose
-Project Docker example
-"# docker-book-compose" 
+Single Node.js project example using Docker-Compose
