@@ -1,0 +1,28 @@
+{
+  "name": "docker-books-fabio",
+  "version": "1.0.0",
+  "description": "Project Docker Fabio",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.3",
+    "marko": "^4.4.21",
+    "mongoose": "^4.11.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ffabinhoo/docker-books-compose.git"
+  },
+  "keywords": [
+    "docker",
+    "ffabinhoo"
+  ],
+  "author": "Douglas Quintanilha",
+  "license": "ISC",
+  
+  "homepage": "https://github.com/ffabinhoo/docker-books-compose#readme"
+}
